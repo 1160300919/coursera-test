@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 couresra-test
 
- [demo](http://1160300919/coursera-test/coursera-test.html)
+ [demo](https://github.com/1160300919/coursera-test/blob/master/coursera-test.html)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
